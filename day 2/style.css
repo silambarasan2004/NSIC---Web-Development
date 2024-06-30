@@ -1,0 +1,12 @@
+.body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100px;
+    height: 100px;
+    font-weight: 600;
+}
+.a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 200px;
+    height: 500px; 
+    color: blueviolet;
+}
